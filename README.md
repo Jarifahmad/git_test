@@ -1,5 +1,1 @@
-hello world this is Jarif's first ever git project!
-asdashd
-<!this is a comment in html>
-capppp
-blah blah 
+hello world this is my first ever git project!
